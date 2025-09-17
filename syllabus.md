@@ -17,18 +17,20 @@ header: true
 	Tuesday and Thursday: 2:00 – 5:00 pm
 
 
-**Instructor:** Alex Rickett _(he/him/any)_  <br/> 
+**Instructor:** Alex Rickett _(any)_  <br/> 
 **Office hours:** TBA (and by appointment)  <br/> 
-**Email:** alexrickett@ucla.edu <br/>
+**Email:** [alexrickett@ucla.edu](mailto:alexrickett@ucla.edu) <br/>
 
 **Teaching Assistant:** Sagan Yee _(he/they)_ <br/> 
 **Office hours:** TBA (and by appointment) <br/>
-**Email:** AAAA@AAAA.AAA <br/>
+**Email:** [saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu) <br/>
 
+<!--
 ## Online Spaces
 AAAAAAAAAAAAAAAAAAAAAAAAAA
 [Discord]([https://discord.gg/HrdwJFss](https://discord.gg/HrdwJFss))
 [GroupMe]([https://groupme.com/join_group/100159958/fa7Ot7HG](https://groupme.com/join_group/100159958/fa7Ot7HG))
+-->
 
 ## Course Description
 
