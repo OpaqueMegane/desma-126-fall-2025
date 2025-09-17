@@ -18,11 +18,11 @@ header: true
 
 
 **Instructor:** Alex Rickett _(he/him/any)_  <br/> 
-**Office hours:** AAAAAAAAAAAAAAAAA  <br/> 
+**Office hours:** TBA (and by appointment)  <br/> 
 **Email:** alexrickett@ucla.edu <br/>
 
 **Teaching Assistant:** Sagan Yee _(he/they)_ <br/> 
-**Office hours:** AAAAAAAAAAAAAAAAA <br/>
+**Office hours:** TBA (and by appointment) <br/>
 **Email:** AAAA@AAAA.AAA <br/>
 
 ## Online Spaces
