@@ -10,7 +10,7 @@ header: true
 
 **Location:** Broad 4220  
 
-**Times:** Tuesday and Thursday: 2:00 – 5:00 pm
+**Times:** Tuesday and Thursday: 2:00 - 4:50pm
 
 **Instructor:** Alex Rickett _(any)_\
 **Office hours:** TBA (or by appointment)\
@@ -61,6 +61,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAA
 
 This course introduces the fundamentals of programming interactive projects in game development software. Classwork focuses on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound.
 
+## Course Objectives/Learning Outcomes
+By the end of this course, you will be able to create a real-time, interactive software with custom rules, generative or randomized levels, save data, responsive controls, physics, sound, and simple animation. The skills you will learn in this class translate well to immersive media, generative animation, and other modes of human-computer expression.
+
+
 ## Course Outline
 
 > See the [schedule](schedule.md) for a more detailed breakdown of each class. Note: Schedule and daily contents are subject to change!
@@ -107,15 +111,17 @@ Creative projects and proposals are graded based on these parameters:
 
 - **Submitting on time**.
 - **Completing project deliverables**.
-- **Attention to detail/craft**. Does the project run? Are there unintended bugs, glitches, etc.
+- **Attention to detail/craft**. Does the project run? Does it feel broken or excessively glitchy?
 - **Project scope / ambition / aesthetic and technical ambition**. Are you doing the bare minimum, or are you pushing yourself technically or aesthetically?
-- **Creative risk taking and resourcefulness**. Are you pushing the limits of the tools? Hacky solutions a perfectly acceptable and encouraged!
+- **Creative risk taking and resourcefulness**. Are you pushing the limits of the tools, and making full use of the possibilities the offer? Hacky solutions, and unconventional misuse are perfectly acceptable, and encouraged!
 
 Reading and homeplay responses are pass/fail. As long as you thoughtfully complete/participate you’ll get full credit.
 
+<!--
 ### Submitting Projects
 
 >See [submission guidelines](how-to-submit-projects.md) for more details
+-->
 
 #### LATE WORK
 
