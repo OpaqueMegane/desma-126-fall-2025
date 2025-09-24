@@ -4,26 +4,61 @@ title: "Syllabus"
 permalink: /syllabus
 header: true
 ---
-**Course Name & Number:**
-	DESMA 126 : Game Engines 
+**Course Name & Number:**\
+&emsp;DESMA 126 : Game Engine
 
-**Academic Term:** 
-	Fall 2025
+**Academic Term:**\
+&emsp;Fall 2025
 
-**Location:** 
-	Broad 4220  
+**Location:**\
+&emsp;Broad 4220  
 
-**Times:** 
-	Tuesday and Thursday: 2:00 – 5:00 pm
+**Times:**\
+&emsp;Tuesday and Thursday: 2:00 – 5:00 pm
 
+**Instructor:**\
+&emsp;Alex Rickett _(any)_\
+**Office hours:**\
+&emsp;TBA (or by appointment)\
+**Email:**\
+&emsp;[alexrickett@ucla.edu](mailto:alexrickett@ucla.edu)
 
-**Instructor:** Alex Rickett _(any)_  <br/> 
-**Office hours:** TBA (and by appointment)  <br/> 
-**Email:** [alexrickett@ucla.edu](mailto:alexrickett@ucla.edu) <br/>
+**Teaching Assistant:**\
+&emsp;Sagan Yee _(he/they)_\
+**Office hours:**\
+&emsp;TBA (and by appointment)\
+**Email:**\
+&emsp;[saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu)
 
-**Teaching Assistant:** Sagan Yee _(he/they)_ <br/> 
-**Office hours:** TBA (and by appointment) <br/>
-**Email:** [saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu) <br/>
+<!--
+<table style="border: none; border-collapse: collapse;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span" style="border: none;">
+**Instructor:**  
+&emsp;Alex Rickett _(any)_  
+**Office hours:**  
+&emsp;TBA (or by appointment)  
+**Email:**  
+&emsp;[alexrickett@ucla.edu](mailto:alexrickett@ucla.edu)  
+</td>
+
+<td markdown="span" style="border: none;">
+**Teaching Assistant:**  
+&emsp;Sagan Yee _(he/they)_  
+**Office hours:**  
+&emsp;TBA (and by appointment)  
+**Email:**  
+&emsp;[saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu)
+</td>
+</tr>
+</tbody>
+</table>
+-->
 
 <!--
 ## Online Spaces
@@ -34,37 +69,27 @@ AAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ## Course Description
 
-This course introduces the fundamentals of programming interactive projects in game development software. Classwork focuses on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound. This course is offered in parallel with the concurrent courses, Game Design and Interactive Animation.
-
-## Prerequisites
-
-DESMA 24 Interactivity. 
-
-We will revisit many of the same concepts covered in Interactivity, but using the C# scripting language and the Unity scripting API. If you haven't taken DESMA 24, but have prior experience with Unity and C# please let me know.
-
-## Learning Outcomes
-
-By the end of this course, you will be able to create a real-time, interactive software with custom rules, generative or randomized levels, save data, responsive controls, physics, sound, and simple animation. The skills you will learn in this class translate well to immersive media, generative animation, and other modes of human-computer expression.
+This course introduces the fundamentals of programming interactive projects in game development software. Classwork focuses on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound.
 
 ## Course Outline
 
 > See the [schedule](schedule.md) for a more detailed breakdown of each class. Note: Schedule and daily contents are subject to change!
 
-**Weeks 1–2**  
-Introduction to game development tools, Unity Editor, C# introduction, visual language, and level design.
-
+- **Weeks 1–2**  
+Introduction to game development tools, Unity Editor, C# introduction, visual language, and level design.\
+\
 [Project 1: Worlding (Due: Week 3)](project-1.md)  
 Remix of the Roll-a-ball tutorial game that explores the possibilities of environment and spatial narrative. Roll-a-ball is a quick tour of the Unity Editor, but also provides the foundation for something more expansive.
 
-**Weeks 3–6**  
-Alternative Engines. Working in 2D. Creating assets/sprites. Vector fundamentals, physics, and persistent data.
-
+- **Weeks 3–6**  
+Alternative Engines. Working in 2D. Creating assets/sprites. Vector fundamentals, physics, and persistent data.\
+\
 **Project 2: Zine (Due: Week 6)**  
 Create a zine using Unity or an alternative game engine. Experiment with custom asset creation and collage techniques. Express ideas through game mechanics, assets, text, and structure.
 
-**Weeks 7–10**  
-Refinement, remix, sampling, streaming, custom input, mods.
-
+- **Weeks 7–10**  
+Refinement, remix, sampling, streaming, custom input, mods.\
+\
 **Project 3: Game as Engine (Due: Week 10)**  
 Starting with either a previous project or a completely new idea, consider alternative ways of engaging with the project using novel input systems, custom graphics/shaders/vfx, cameras, multiple players, sound, procedurally generated content, etc.
 
