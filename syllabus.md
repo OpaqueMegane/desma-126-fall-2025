@@ -4,31 +4,21 @@ title: "Syllabus"
 permalink: /syllabus
 header: true
 ---
-**Course Name & Number:**\
-&emsp;DESMA 126 : Game Engine
+**Course Name & Number:** DESMA 126 : Game Engine
 
-**Academic Term:**\
-&emsp;Fall 2025
+**Academic Term:** Fall 2025
 
-**Location:**\
-&emsp;Broad 4220  
+**Location:** Broad 4220  
 
-**Times:**\
-&emsp;Tuesday and Thursday: 2:00 – 5:00 pm
+**Times:** Tuesday and Thursday: 2:00 – 5:00 pm
 
-**Instructor:**\
-&emsp;Alex Rickett _(any)_\
-**Office hours:**\
-&emsp;TBA (or by appointment)\
-**Email:**\
-&emsp;[alexrickett@ucla.edu](mailto:alexrickett@ucla.edu)
+**Instructor:** Alex Rickett _(any)_\
+**Office hours:** TBA (or by appointment)\
+**Email:** [alexrickett@ucla.edu](mailto:alexrickett@ucla.edu)
 
-**Teaching Assistant:**\
-&emsp;Sagan Yee _(he/they)_\
-**Office hours:**\
-&emsp;TBA (and by appointment)\
-**Email:**\
-&emsp;[saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu)
+**Teaching Assistant:** Sagan Yee _(he/they)_\
+**Office hours:** TBA (and by appointment)\
+**Email:** [saganyee@g.ucla.edu](mailto:saganyee@g.ucla.edu)
 
 <!--
 <table style="border: none; border-collapse: collapse;">
