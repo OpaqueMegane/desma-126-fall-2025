@@ -28,7 +28,7 @@ header: true
 
 <td markdown="span" style="border: none;">
 **Instructor:**  
-&emsp;Alex Rickett _(any)_  
+&emsp;Alex Rickett _(he/any)_  
 &emsp;[alexrickett@ucla.edu](mailto:alexrickett@ucla.edu)  
 &emsp;**Office hours:**  
 &emsp;&emsp;TBA (or by appointment)  

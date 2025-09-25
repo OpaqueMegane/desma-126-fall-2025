@@ -48,7 +48,7 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 
 1. Use custom assets to build out your world. These can include your own 3D models, found models, flat image cutouts, and more! Consider progression, distance, signposting, and other elements of level design that we cover in class. Does the level tell a story?
 2. Improve on the mechanics of the Roll-a-ball tutorial. Consider ways that the player could lose (e.g., falling off the world, a time limit, things that could push you, becoming utterly lost, making poor fiscal decisions, spotted by a cat….). The Game should be able to restart when Win / Lose happens. 
-3. Create a title overlay using 2D assets (Images, fonts, etc. from step 2 !😉) that has instructions for your game – this overlay should be visible when your game starts and should be able to be shown and hidden during the game by pressing the ‘q’ key.
+3. Create a title overlay using 2D assets (Images, fonts, etc. from step 2!😉) that has instructions for your game – this overlay should be visible when your game starts and should be able to be shown and hidden during the game by pressing the ‘q’ key.
 4. Add sound to your game! Make a looping background track, sound effects for pickups, sound effects for other events, your own narration.
 
 Please refer to the page on [preparing your game for submission](how-to-submit-projects.md) for more information on the build and documentation process.
