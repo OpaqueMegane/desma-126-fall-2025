@@ -170,7 +170,7 @@ We will not accept medical notes to excuse absences, except in extreme circumsta
 
 While AI, and example projects, and off the shelf assets are alluring for getting more "professional" seeming results quickly, your purpose in being here is to learn, and the best way to learn is by doing. For the purpose or learning, I believe strongly in working without these.  Assignments might specific rules, but in general, you should strive to develop your own assets for your project submissions. If major portions of your project have been borrowed or generated, particularly audio, visual, and textual content, they must be conceptually significant to your project and you should be able to justify their inclusion. While developing early stage prototypes and testing mechanics, it is perfectly acceptable to use placeholder assets.
 
-Furthermore, when submitting assignments, you will be required to make a brief statement about any generative tools, template projects, or ready made assets employed. Failure to cite any major use of such resources will be considered considered academic misconduct and subject to investigation.
+\*\*Furthermore, when submitting assignments, you will be required to make a brief statement about any generative tools, template projects, or ready made assets employed. Failure to cite any major use of such resources will be considered considered academic misconduct and subject to investigation.
 
 ## RESOURCES
 
