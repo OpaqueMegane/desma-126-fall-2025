@@ -171,5 +171,6 @@ Let us know a bit more about yourself and your background.
 
 [https://forms.gle/eAiXzFwPTa4jn3Xa6](https://forms.gle/eAiXzFwPTa4jn3Xa6) 
 
-![Banner](/assets/banner.png)
-![survey qr code](/assets/intro-survey-qr-code.png)
+<center>
+ <img src='/assets/surveyqr.png' width='30%' />
+</center>

@@ -4,5 +4,10 @@ title: "Assignments"
 permalink: /assignments
 header: true
 ---
+[Reading 1](/assignments/reading-1) (due: 10/2)
 
-[Assignment 1](/assignments/assignment-1)
+[Project 1](/assignments/assignment-1) (due: 10/9)
+
+<br>
+_..._  
+_(Watch this space)_
