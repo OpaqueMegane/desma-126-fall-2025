@@ -3,13 +3,17 @@ layout: page
 title: "Assignment 1: Roll-a-Ball"
 permalink: /assignments/assignment-1
 ---
+## NOTE! ##
+Note: Some particulars of this assignment may change a little bit if you are reading this before 9/30, but the essential deliverables, prompts and due dates should remain the same.
+### ------ ###
+
 Create a remix of the Roll-a-ball tutorial game that explores the possibilities of spatial narrative and environment while expanding the scope of the original. The Roll-a-ball tutorial serves as a quick tour of the Unity Editor, while also providing a foundation for creating something more expansive.
 
-## 1. Complete Roll-a-ball
+## 1. Complete the Roll-a-ball Tutorial
 
-**Due by Thursday 4/4**
+**Complete by 2nd day of class (9/30)**
 
-This project will build off the official Unity [Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball) 
+This project will build off the official Unity[Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball) 
 
 *Complete the entire tutorial and have a fully set up project ready for part 2. Everyone needs to complete this project!* 
 
@@ -17,7 +21,7 @@ This project will build off the official Unity [Roll-a-ball tutorial](https://l
 
 ## 2. Sketch: Beyond Roll-a-ball
 
-**Due by Tuesday 4/9**
+**Due by Tuesday 10/2**
 
 *Develop 2 short sketches illustrating ideas for expanding on the Roll-a-ball demo. Consider an overlay image that will function as a “title card” when the game starts.* 
 
@@ -37,8 +41,10 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 
 ## 3. Build it
 
-**Due by Tuesday 4/16**
-[~SUBMIT PROJECT 1 HERE~](https://docs.google.com/forms/d/e/1FAIpQLSejeM6w6u5Onp2Z1QTFU8pg3D8PQrr8qToizsXeZBDg3WAx5Q/viewform?usp=sf_link)
+**Due by Tuesday 10/9**
+<!--
+[~SUBMIT PROJECT 1 HERE~](https://docs.google.com/forms/d/e/1FAIpQLSejeM6w6u5Onp2Z1QTFU8pg3D8PQrr8qToizsXeZBDg3WAx5Q/viewform?usp=sf_link) 
+-->
 
 1. Use custom assets to build out your world. These can include your own 3D models, found models, flat image cutouts, and more! Consider progression, distance, signposting, and other elements of level design that we cover in class. Does the level tell a story?
 2. Improve on the mechanics of the Roll-a-ball tutorial. Consider ways that the player could lose (e.g., falling off the world, a time limit, things that could push you, becoming utterly lost, making poor fiscal decisions, spotted by a cat….). The Game should be able to restart when Win / Lose happens. 
@@ -47,7 +53,7 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 
 Please refer to the page on [preparing your game for submission](how-to-submit-projects.md) for more information on the build and documentation process.
 
-Some rolling ball inspiration (also refer to games from Homeplay 1 as inspiration):
+Some rolling ball inspiration:
 
 - Marble Madness (Atari 1984 Arcade game) – [play online](https://archive.org/details/arcade_marble), [arcade game info vid](https://youtu.be/HE3xhAvS8c8), [MM2 info](https://lostmediawiki.com/Marble_Man:_Marble_Madness_II_(found_unreleased_sequel_of_Atari_arcade_game;_1991)) (see also [Crystal Castles](https://youtu.be/TZBMIOMRj2k) for more isometric action)
 - [Katamari Damacy](https://youtu.be/yYypwqRnoI8) (2004)

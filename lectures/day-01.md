@@ -112,7 +112,11 @@ Create a GameObject:
 
 ![](https://lh3.googleusercontent.com/ErheS9d7HfJG-FRAGh2odz9tYYV5s8wRulkh3wbxv-UwnbK9pPhAkusSSqrzti9e-veqnmrfmo6RYwq8DbVLGPkFPvd_9w8MWEOXPrEV7nWMt2AauQxMfAmAP_3vvTlr2nkSuwLsimisqCdvtLfFS4A)
 
-By default, every game object has a [Transform](https://docs.unity3d.com/Manual/class-Transform.html).  A transform keeps track of an object’s position, rotation, and scale within the 3D space of the scene. Even if the game object has nothing to do with position, for example background music or an inventory manager, there still has to be a transform. 
+By default, every game object has a [Transform](https://docs.unity3d.com/Manual/class-Transform.html).  A transform keeps track of an object’s position, rotation, and scale within the 3D space of the scene. Even if the game object has nothing to do with position, for example background music or an inventory manager, there still has to be a transform.
+
+You can change the position, and rotation, and scale of objects via the tools in the scene view
+<br>
+![move, rotate, scale tools](/assets/mrs-tools.gif)
 
 If you come from Maya, you can quickly edit the position, rotation, and scale of the game object in the scene view using the W, E, and R keys on the keyboard.
 
@@ -121,11 +125,11 @@ If you come from Maya, you can quickly edit the position, rotation, and scale of
 3. Press E to bring up the rotation tool
 4. Press W to bring up the position tool
 
-Tip: You can hold ‘ctrl’ while making adjustments to snap the values. 
+Tip: You can hold ‘ctrl’ while making adjustments to snap the values.
 
 # Components 
 
-To add components to a GameObject. 
+To add components to a GameObject.
 
 1. Select the object
 2. Go to Components > (name of component you want to add) OR click the “Add Component” button at the bottom of the Inspector tab
@@ -142,25 +146,30 @@ Try creating some game objects and add components to them. Starting with an empt
 
 This is where you’ll want to have a 3 button mouse.
 
-Focus on a Game Object
+**Focus on a Game Object**
 
 1. Double click on it in the Scene view
 2. Select the object and press the ‘F’ key
 
 Orbit around the focused object:
 
-1. Hold the Alt key
+1. Hold the **Alt** key
 2. Hold left-click and move the mouse
 
-Move/Pan
+**Move/Pan**
 
-1. Hold middle mouse button and move the mouse
+1. Hold **middle mouse button** and move the mouse
+
   
-Zoom on focused object:
+**Zoom on focused object:**
 
 1. Hold Alt key
-2. Hold Right-click and move mouse
+2. Hold Right-click and move mouse  
   
+ **Fly around the scene:*
+ while holding **right mouse button**, use **WASD** to fly around, **Q / E** to descend/ascend.
+  
+ **Scene Gizmo**  
 ![](https://lh4.googleusercontent.com/xNinVOYO90RFgjsQC8LLIFdYQ-a1INlLtYbDJY_df5YnOBmaTKlDX65CIGaFcHnUwjEQC3DgD2T0gA-E6bpiVjbKonrOTwXQoO64R0PExvZ0obh3HYqLQeHd-Pprp8lTpicDYffaCvJNW3yd2Qe8-_Q)
 
 You can also quickly change views along a specific axis using the “Scene Gizmo”
@@ -174,11 +183,18 @@ Now you can use these navigation tools to take a tour of your neighbor’s house
 
 This [Unity quickstart video](https://youtu.be/XtQMytORBmM) from Game Maker’s Toolkit is very very useful to quickly get a sense of the workflow in Unity.
 
-# Next Class: Roll-a-ball Tutorial 
+# Next Class: Roll-a-ball Tutorial
+Please go through the Roll-a-ball tutorial before our next class session on Tuesday. (If we haven't done together in class)
 
 [https://learn.unity.com/project/roll-a-ball](https://learn.unity.com/project/roll-a-ball) 
 
 *Note: this tutorial was created with Unity version 2020.3, so there may be slight differences. If you are unable to get past one of the steps of the tutorial please reach out to the TA* 
+
+# First Assignment : Reading 1
+Due Next Thursday (10/2)
+There will be 2 Reading assignments. They're just pass/no-pass, with brief responses to questions, as prep for discussion in class.  
+
+[Assignment Link](/assignments/reading-1)
 
 # Class Survey
 
