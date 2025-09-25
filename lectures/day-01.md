@@ -16,51 +16,66 @@ Welcome!
 
 # Class Intro
 
-[Syllabus](/syllabus.md)  
+[Syllabus](/syllabus)  
 
-[Schedule](/schedule.md) ←_subject to change_ 
+[Schedule](/schedule) ←_subject to change_ 
 
-# Start the Unity Install
+# Install Unity (We're just installing for now) 
 
-If you plan to use your personal computer, please download Unity Hub, and Unity 2022.3.62 (it takes some time, so start now!)
+(it takes some time to download and install, so lets start now)
 
-1. Download and install [Unity Hub](https://unity.com/download)
+Before you start: _Do you have enough space?_  
+Unity requires around 5GB itself, and even small projects can be 2GB, so I reccommend you have at least 10GB of space when we start working on project.s
+
+1. Download and install [Unity Hub](https://unity.com/download)  
+
 2. Open Unity Hub and create a Unity Account or log in with an existing Unity account
 
 	![](https://lh4.googleusercontent.com/APHs2tLEd-gZY72ls4AygAaHh37mgskH6i9_yFtLF51Qurm3SVYzi7kgLrvM69wJVHUPl0USzqoWAMAyWEvEO4yZr951ELHKjD-Q_Q6eV4LTLV3YKR8zzOXbWNWuWIfvzhkt5Q4WChHx0xLLwn6cHsE)
 
-3. Once you’ve logged in, install the Unity Editor. I recommend installing the most recent LTS Editor. This is currently 2022.3.XX You’ll have to agree to the license, then it will start to install. Make sure to click yes to any access requests from the Unity installer.
+3. Once you’ve logged in, install the Unity Editor. Please install version 2022.3.XX.*
+   <br><br>You’ll have to agree to the license, then it will start to install. Make sure to click yes to any access requests from the Unity installer.
 
 	![](https://lh6.googleusercontent.com/CB-AyT2AH9FayyFiBnOmZ2chD9ZwHCV4qIEtT8nroKzX5xeNnSmH1Fcxg0YhqtHWFv32IpaUwPo1N4IGzwS2FbzTxSmcqLh3tvkJXVqnXDDVnRAC6jSCNymq0pMZL3KK93PANW1b07MHXaKtQzrLN0s)
-  
-4. Make sure to also install Microsoft Visual studio and Windows build support. To make the submission process a bit easier, everyone should submit a Windows build of their project regardless of the OS that you are using.
+	  <br><br>_*This is the most recent LTS Editor, and matches the versions on DMA lab computers_
+  	<br><br>
+  	**Regarding version numbers:**
+  	<br>If you plan on working on your project across multiple computers (e.g. both lab computers and a home computer), It's important to be careful with version numbers.  If you open your unity project with a different version number, you could corrupt or lose your work!
+  	<br>In general, as long as you're using some version of Unity 2022.3.xx you should be fine.  It's generally fine if the last number (the 'xx' after '2022.3') is different, but proceed with caution otherwise.
+	<br>
+  	![](/assets/version-num-parts.png)
 
+4. Also install **Microsoft Visual Studio\***, and **Windows build support**
 	![](https://lh5.googleusercontent.com/gujcH0ZUGA_jq2Qd0CsADLJ76X7imXQ5i5HD3wY06q97C6onic-jFTFu7pSIBzlpyyEkP3aMnCObtwZU60sscZOnOz2X1E0cR6aYokfzzsbKa-uRVbQhqmgp6pa677atTTVo0PR27E1MLsep6nyBDvU)
+	<br>_We require that all project submissions to be Windows builds, regardless of the OS that you are using._
+	<br><br>_*If you are on Mac, install Visual Studio Code (I think)_
 
 5. You’ll want to include tools for working with Unity. When the box below shows up during the installation, check the “Game Development with Unity” box and uncheck the “Unity Hub” box in the Installation details panel (see image below). Click the Install button to continue. Skip making an account. Close Visual Studio when finished.
     ![](https://lh3.googleusercontent.com/DlcKNSNlT1oVUnxC95YL5NsZGosjrDLcQbSNl2sUJ1rKBKW_JSxkJHgACyTc_nwI_NhkBVbzX5nQQhgWUZXNtCwWKBQPViK6ZaJPFUJAmYScW4gUs3isp4LSI0YqvvVto6X4LkG9sq5lmjC6cPAt9_A)
 	
 	Note: Unity does not come with its own code editor, so it’s necessary to install an external editor. Visual Studio is the recommended editor, but you can use other code editors that you are more familiar with (other popular editors with Unity include VS Code and JetBrains Rider). If you’re just starting out, I strongly recommend using Visual Studio because the setup is much less involved. Once we get into editing scripts, having working code completion for the Unity API will make your life so much easier.
 
+<br>
+Don't worry too much if you don't get through all these steps for now.  Once everyone has Unity at least started downloading, we'll move on. 
 
-# Brief History of Game Engines
+# Brief History of Game Engines  
+
 Lecture / discussion while we wait for unity to download.
 <br>
 <br>
+![](/assets/unity-1.0.jpg)
+<br>
+<br>
+...
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-# Unity Hello World
+# Getting Started With Unity (Hello World)
 
-6. Create a new Project. Back in Unity Hub. Select the Projects > New Project and then find the 3D URP template in the list (you may have to scroll down a bit, and you may need to click “download template”). You can name your project (consider calling it “Rollaball” because this is the first step of the homework), set the location of the project folder and click “Create Project”.
+6. Create a new Project.
+<br>Back in Unity Hub. Select **Projects** > **New Project** and then find the Universal 3D template in the list (you may have to scroll down a bit, and you may need to click “download template”). You can name your project (consider calling it “Rollaball” because this is the first step of the homework), set the location of the project folder and click “Create Project”.
     
-    ![](https://lh3.googleusercontent.com/5LkEQwBuOXZnX_pdFun2sqoZTd4vAJV912xBCMa8RCTexXz1TNHmlQd8wNvTzVsBeyuKbfquJO5xc4JIE-V7_Fr7Zbfuy1FAzYrw5TVSBflbNXgd8OKmRcZKK705CUtGUihxQknpq96ecIwtKiCYrAg)
+    ![new project steps](/assets/new-project-unity.gif)
 
 Let’s get our bearings and talk a little bit about how the Unity Editor works
 ## Layout
@@ -167,10 +182,11 @@ This [Unity quickstart video](https://youtu.be/XtQMytORBmM) from Game Maker’s 
 
 # Class Survey
 
-Let us know a bit more about yourself and your background.  
-
-[https://forms.gle/eAiXzFwPTa4jn3Xa6](https://forms.gle/eAiXzFwPTa4jn3Xa6) 
-
+Let us know a bit more about yourself, (help us tailor the class to suit your needs and interests)  
+	<br>
 <center>
+	<a href="https://forms.gle/eAiXzFwPTa4jn3Xa6">>> Click Here or Use Code For Survey <<</a>
+	<br>
+	<br>
  <img src='/assets/surveyqr.png' width='30%' />
 </center>
