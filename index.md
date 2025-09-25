@@ -4,9 +4,7 @@
 
 layout: home
 ---
-
-![Banner](/assets/images/banner.png)
-
+## DMA 126 : Game Engine
 <table style="border: none; border-collapse: collapse;">
 <colgroup>
 <col width="50%" />
@@ -41,3 +39,7 @@ layout: home
 
 ## Course Description
 This course introduces the fundamentals of programming interactive projects in game development software. Classwork focuses on familiarizing students with game engines, computer programming concepts, player experience, and other skills that are foundational to making digital games. Lectures, exercises, and class projects teach skills needed to create digital games including custom rules, interactive physics systems, vectors, generative or randomized levels, save data, custom input systems, score-keeping, and sound.
+<br>
+<br>
+<br>
+![Banner](/assets/banner.png)
