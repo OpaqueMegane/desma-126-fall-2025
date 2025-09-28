@@ -13,7 +13,7 @@ Create a remix of the Roll-a-ball tutorial game that explores the possibilities 
 
 **Complete by 2nd day of class (9/30)**
 
-This project will build off the official Unity[Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball) 
+This project will build off the official Unity [Roll-a-ball tutorial](https://learn.unity.com/project/roll-a-ball) 
 
 *Complete the entire tutorial and have a fully set up project ready for part 2. Everyone needs to complete this project!* 
 
