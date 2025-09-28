@@ -17,6 +17,8 @@ This project will build off the official Unity [Roll-a-ball tutorial](https://le
 
 *Complete the entire tutorial and have a fully set up project ready for part 2. Everyone needs to complete this project!* 
 
+[Check here](/project-exporting) for instructions on transferring Unity projects between computers if needed
+
 ![](https://classes.dma.ucla.edu/Winter23/158/wp-content/uploads/2023/01/rollball-background-2-e1672847701440-1024x273.png)
 
 ## 2. Sketch: Beyond Roll-a-ball

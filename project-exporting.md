@@ -11,8 +11,8 @@ To back up your Unity files, you need to back up the entire contents of your Uni
 There are a couple ways to do this, but The easiest way to do this is create a unity package:
 
 
-## 1: Create a Unity package 
-**(Recommended method)**  
+## Method 1: Create a Unity package (Recommended)
+  
 ![export a package](/assets/export-whole-project-package.gif)
 
 **Instructions**  
