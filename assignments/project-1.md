@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Assignment 1: Roll-a-Ball"
-permalink: /assignments/assignment-1
+permalink: /assignments/project-1
 ---
 ## NOTE! ##
 Note: Some particulars of this assignment may change a little bit if you are reading this before 9/30, but the essential deliverables, prompts and due dates should remain the same.
