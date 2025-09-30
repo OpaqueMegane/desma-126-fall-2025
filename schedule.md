@@ -8,7 +8,7 @@ header: true
 | Wk  | Tuesday | Thursday |
 | --- | ------- | -------  |
 | 1   | - - - - | 9/25<br>[Welcome!, syllabus, setting up etc...](lectures/day-1) |
-| 2   | 9/30<br>Level Design | 10/2<br>**DUE: Sketch for Project 1<br>DUE: Reading 1**<br>Materials, Lights, Triggers and Events |
+| 2   | 9/30<br>[Level Design](lectures/day-2) | 10/2<br>**DUE: Sketch for Project 1<br>DUE: Reading 1**<br>Materials, Lights, Triggers and Events |
 | 3   | 10/7<br>**DUE: Homeplay 1**<br>UI / Overlay / Sounds<br>Work on Project 1| 10/9<br>**DUE: Project 1**<br>Share, Play, Crit |
 | 4   | 10/14<br>Project 2 intro.<br>2D Workflow, template, C#, sprites| 10/16 <br>Micro Jam |
 | 5   | 10/21<br>**DUE: Project 2 Reading**<br>Input, Triggers, Dialogue | 10/23<br>**DUE: Project 2 Sketch**<br>Inventory and Collections |
