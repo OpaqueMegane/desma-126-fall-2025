@@ -3,11 +3,7 @@ layout: page
 title: "Assignment 1: Roll-a-Ball"
 permalink: /assignments/project-1
 ---
-## NOTE! ##
-Note: Some particulars of this assignment may change a little bit if you are reading this before 9/30, but the essential deliverables, prompts and due dates should remain the same.
-### ------ ###
-
-Create a remix of the Roll-a-ball tutorial game that explores the possibilities of spatial narrative and environment while expanding the scope of the original. The Roll-a-ball tutorial serves as a quick tour of the Unity Editor, while also providing a foundation for creating something more expansive.
+Create a remix of the Roll-a-ball tutorial game that explores the possibilities of 3D level design while expanding the scope of the original. The Roll-a-ball tutorial serves as a quick tour of the Unity Editor, while also providing a foundation for creating something more expansive.
 
 ## 1. Complete the Roll-a-ball Tutorial
 
@@ -25,17 +21,24 @@ This project will build off the official Unity [Roll-a-ball tutorial](https://le
 
 **Due by Tuesday 10/2**
 
-*Develop 2 short sketches illustrating ideas for expanding on the Roll-a-ball demo. Consider an overlay image that will function as a “title card” when the game starts.* 
+*Develop 2 short sketches illustrating a potential concept for an expanded Roll-a-ball.* 
+
+**Submission**
+- Upload your sketches and some brief explanation [here](https://docs.google.com/forms/d/e/1FAIpQLSeDzXfAm3IpRpvGCZDVuZB5jvXf88-mbHWOKMGsITEkh4EVRg/viewform?usp=header)  
+- Also, please bring your sketches to class, and be ready and discuss your concept with instructors. 
 
 Roll-A-Ball as it is, is not much of a “game” and even less of a space to explore. You can win by collecting the pickups, but you can’t really lose. There is no challenge or narrative designed into the game, the outcome is predictable, and the ball is confined to an empty square platform floating in the default skybox. We want to fix all of this and make Roll-A-Ball into something more thoughtful, expansive, and meaningful by considering the setting, level design, and perhaps a bit of risk 👀
 
 The only limitation for this project is that you have to keep the player movement script. Consider the possibilities of "rolling"  existing ball mechanics and how rolling influences the design of the level. It is OK to swap the model of the character, as long as the player character still rolls.
 
-Don't worry about viability at this point. We'll meet in class to help pick one sketch, and we'll discuss how to best realize it in the time given. One of the challenges of this project is work within the limitations of the camera and controls of roll-a-ball. 
+Don't worry about viability, or how to program any mechanics at this point. We'll meet in class to help pick one sketch, and we'll discuss how to best realize it in the time given. One of the challenges of this project is work within the limitations of roll-a-ball. 
 
-**Be sure to include for each sketch:**
-- A map of the overall space that your ball-character will traverse. Consider interior or exterior, scale (of player and/or the environment), obstacles, occlusions, viewpoints, other characters, and sense of place. Consider additional viewpoints, cross-sections, or cutaways to show verticality or interior/exterior transitions.
+**Each sketch should include:**
+- A map of the overall space that your ball-character will traverse. Consider interior or exterior, scale (of player and/or the environment), obstacles, occlusions, viewpoints, other characters, and sense of place. Consider additional viewpoints, cross-sections, or cutaways to show verticality or interior/exterior transitions.  
+
 - Overlay image / title card that includes the title, concept/premise/goal, and controls of the game. This overlay will be visible when your game starts and can be toggled on and off.
+
+
 
 ![](https://classes.dma.ucla.edu/Winter23/158/wp-content/uploads/2023/01/envirobear-1024x771.png)
 
@@ -53,7 +56,16 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 3. Create a title overlay using 2D assets (Images, fonts, etc. from step 2!😉) that has instructions for your game – this overlay should be visible when your game starts and should be able to be shown and hidden during the game by pressing the ‘q’ key.
 4. Add sound to your game! Make a looping background track, sound effects for pickups, sound effects for other events, your own narration.
 
-Please refer to the page on [preparing your game for submission](how-to-submit-projects.md) for more information on the build and documentation process.
+## Evaluation
+- **Level design** Did you create a compelling level? Can we feel your effort, and ideas as we traverse your level?
+- **Aesthetics / Narrative** Are your game world, character, and title screen visually interesting, refined, creative, or surprising?
+- **Mechanics** Do you make creative use of class provided behaviors, or implement any novel mechanics of your own? Do they facilitate a distinctive player experience?  
+- **Originality / Concept** How unusual, personal, or unconventional is your overall concept? How strongly does it come across in the game?  
+  
+We understand that everyone has a different skillsets and sensibilities, and different projects may fulfill these goals in different proportions.  (e.g. a more elaborately designed level can make up for simpler mechanics, and vice versa.)
+
+
+<!-- Please refer to the page on [preparing your game for submission](how-to-submit-projects.md) for more information on the build and documentation process. -->
 
 Some rolling ball inspiration:
 
