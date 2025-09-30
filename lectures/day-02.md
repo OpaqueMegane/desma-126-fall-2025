@@ -22,9 +22,21 @@ Let's review it quickly.
 
 _Later, we'll cover most of these topics more in depth._
 
-[Project 1 Info](/assignments/project-1) 
+**If you had issues...**  
+You can get a completed roll-a-ball UnityPackage in this [Class Share Folder](https://drive.google.com/drive/folders/1Cr6JOuOLNNHCKU1AOTGbdWtLoCGImkmJ?usp=drive_link)
+
+## Project 1 Info
+[Assignment Link](/assignments/project-1) 
 
 # Building Our Level (towards a more "real" game)
 
+## Using Cubes, Spheres, to graybox ##
+Try to build a more interesting level from primitives
+
+## Using ProBuilder (more kinds of shapes, and simple 3D modeling) ##
 [ProBuilder Instructions](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.0)
 
+<!--
+# Level Design  
+[Slides]()
+-->
