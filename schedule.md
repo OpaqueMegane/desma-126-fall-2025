@@ -9,7 +9,7 @@ header: true
 | --- | ------- | -------  |
 | 1   | - - - - | 9/25<br>[Welcome!, syllabus, setting up etc...](lectures/day-1) |
 | 2   | 9/30<br>[Level Design](lectures/day-2) | 10/2<br>**DUE: Sketch for Project 1<br>DUE: Reading 1**<br>Materials, Lights, Triggers and Events |
-| 3   | 10/7<br>**DUE: Homeplay 1**<br>UI / Overlay / Sounds<br>Work on Project 1| 10/9<br>**DUE: Project 1**<br>Share, Play, Crit |
+| 3   | 10/7<br>**~~DUE: Homeplay 1~~ (canceled)**<br>UI / Overlay / Sounds<br>Work on Project 1| 10/9<br>**DUE: Project 1**<br>Share, Play, Crit |
 | 4   | 10/14<br>Project 2 intro.<br>2D Workflow, template, C#, sprites| 10/16 <br>Micro Jam |
 | 5   | 10/21<br>**DUE: Project 2 Reading**<br>Input, Triggers, Dialogue | 10/23<br>**DUE: Project 2 Sketch**<br>Inventory and Collections |
 | 6   | 10/28<br>DUE: Homeplay 2<br>Frame animation, Scene Changing | 10/30<br>**DUE: Project 2 Prototype**<br>Instantiate and Destroy<br>work on Project 2          |
@@ -19,6 +19,6 @@ header: true
 | 10  | 11/25<br> **DUE: Project 3 experiments**<br>Work on Project 3 | <span style="color:orange">11/27<br>(HOLIDAY) </span> |
 | 11  | 12/02<br> Work on Project 3| 12/4<br> **DUE: Project 3**<br>Share, Play, Crit.|
 
-<!-- 
-[9/30 materials](lectures/day-2) 
+<!--
+[9/30 materials](lectures/day-2)
 -->

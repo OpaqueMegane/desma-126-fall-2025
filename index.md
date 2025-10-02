@@ -4,6 +4,12 @@
 
 layout: home
 ---
+## Announcements
+ - **10/2/2025**  
+assignment 'Homeplay #1' has been canceled, to give you more time to work on Project 1
+
+
+  
 ## DMA 126 : Game Engine
 <table style="border: none; border-collapse: collapse;">
 <colgroup>
