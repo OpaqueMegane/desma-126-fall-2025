@@ -46,7 +46,7 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 
 ## 3. Build it
 
-**Due at start of class, Tuesday 10/13** (extended)
+**Due by Tuesday 10/9**
 <!--
 [~SUBMIT PROJECT 1 HERE~](https://docs.google.com/forms/d/e/1FAIpQLSejeM6w6u5Onp2Z1QTFU8pg3D8PQrr8qToizsXeZBDg3WAx5Q/viewform?usp=sf_link) 
 -->
