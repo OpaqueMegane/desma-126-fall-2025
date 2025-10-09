@@ -18,3 +18,10 @@ The [roll-a-ball helpers package v2](https://drive.google.com/file/d/1jEmPGGdkOD
 
 ## Work time
 This is the last day in class to get help with your project 1. If you are having trouble getting some feature or mechanic working, please get help today!
+
+**_Tip for testing your game more easily_**  
+It can be helpful to temporarily move your 'player' object later in your level, so you don't have to play your whole game, if you're just trying to figure out one part.
+
+You can download this version of [CameraController.cs](https://drive.google.com/uc?export=download&id=12zs-MpqYEQEYiaM3cEduz6oqCCZveld8) which will respect the manually input 'offset', regardless of the camera/player start positions.
+
+![edit offset](/assets/manual-cameral-controller-offset.gif)
