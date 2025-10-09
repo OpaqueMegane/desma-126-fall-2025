@@ -5,7 +5,7 @@ permalink: /lectures/day-5
 ---
 
 ## Exporting your project & making builds
-Everyone **_MUST_** follow along for this part. 
+Everyone **_MUST_** follow along for this part.  
 [Instructions Link](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.54rx925hat49)
 
 ## Adding a title screen (Canvas+UI basics)

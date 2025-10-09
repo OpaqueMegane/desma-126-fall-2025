@@ -3,6 +3,9 @@ layout: page
 title: "Assignment 1: Roll-a-Ball"
 permalink: /assignments/project-1
 ---
+
+ <span style="font-size: 200%;">**[FINAL PROJECT 1 SUBMISSION FORM](https://docs.google.com/forms/d/e/1FAIpQLSe0z7wgeaP1oH6sUy5HscEU6d1wieAVwyYKES2mzCQ173VI2A/viewform?usp=header)**</span>
+
 Create a remix of the Roll-a-ball tutorial game that explores the possibilities of 3D level design while expanding the scope of the original. The Roll-a-ball tutorial serves as a quick tour of the Unity Editor, while also providing a foundation for creating something more expansive.
 
 ## 1. Complete the Roll-a-ball Tutorial
@@ -65,7 +68,7 @@ Title card for Enviro-Bear 2000: [https://captaingames.itch.io/enviro-bear-2000
 We understand that everyone has a different skillsets and sensibilities, and different projects may fulfill these goals in different proportions.  (e.g. a more elaborately designed level can make up for simpler mechanics, and vice versa.)
 
 
-<!-- Please refer to the page on [preparing your game for submission](how-to-submit-projects.md) for more information on the build and documentation process. -->
+Please refer to the page on [preparing your game for submission](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.54rx925hat49) for more information on the build and documentation process. 
 
 Some rolling ball inspiration:
 
