@@ -4,10 +4,15 @@ title: "Assignments"
 permalink: /assignments
 header: true
 ---
-[Reading 1](/assignments/reading-1) (due: 10/2)
-
-[Project 1](/assignments/project-1) (due: 10/9) **[SUBMISSION FORM](https://docs.google.com/forms/d/e/1FAIpQLSe0z7wgeaP1oH6sUy5HscEU6d1wieAVwyYKES2mzCQ173VI2A/viewform?usp=header)**
+## Game Projects
+**[Project Submission Instructions (READ ME FIRST)](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.54rx925hat49)**
+<br>
+<br>
+[Project 1](/assignments/project-1) (due: 10/9)  
+[Submission From](https://docs.google.com/forms/d/e/1FAIpQLSe0z7wgeaP1oH6sUy5HscEU6d1wieAVwyYKES2mzCQ173VI2A/viewform?usp=header)
 
 <br>
-_..._  
-_(Watch this space)_
+
+## Readings and Homeplays
+
+[Reading 1](/assignments/reading-1) (due: 10/2)
