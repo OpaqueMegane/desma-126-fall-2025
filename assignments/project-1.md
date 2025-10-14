@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Assignment 1: Roll-a-Ball"
+title: "Project 1: Roll-a-Ball"
 permalink: /assignments/project-1
 ---
 
