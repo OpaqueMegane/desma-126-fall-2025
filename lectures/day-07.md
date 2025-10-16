@@ -9,6 +9,12 @@ Today, we'll be running a game jam, and during class time will attempt to create
 
 We'll be using the dialogue system [Yarn Spinner](https://docs.yarnspinner.dev/), and some of the previous helper scripts from the last project.
 
+## Yarn Setup & Tutorial
+Go to this [doc](https://docs.google.com/document/d/1soyb24z-o1wVWXLKrJqiKNEPMWxsxddj4nQGZ4red5Q/edit?tab=t.kmo3nyn3btj9) for a link with the yarn package and template scene to download, as well as tutorials on salient yarn features, and how to work within the template scene for the jam.
+
+### If you're feeling overloaded with information...
+You don't necessarily have to use every single feature in the doc.  I would start by focusing on *options*.  Then on *if* statements using *visited_count()* to make your NPC's respond differently on multiple visits. 
+
 
 ## Rules for the jam:
 1. You may change the graphics of the player, but otherwise not change its functioning or movement.  
@@ -32,9 +38,6 @@ Try to take an additive, rather than subtractive approach. Everyone should have 
 It's OK if the end result isn't complete, or even "good". This game will not be graded. We just ask you make a good faith attempt for the duration of class.
 
 Also, if you get stuck or confused, ask your peers, or the instructors.
-
-## Yarn Setup & Tutorial
-Go to this [doc](https://docs.google.com/document/d/1soyb24z-o1wVWXLKrJqiKNEPMWxsxddj4nQGZ4red5Q/edit?tab=t.kmo3nyn3btj9) for a link with the yarn package and template scene to download, as well as tutorials on salient yarn features, and how to work within the template scene for the jam.
 
 ## Final result upload
 [Upload link](https://forms.gle/16ARXBha3NffFNGb6)
