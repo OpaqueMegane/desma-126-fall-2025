@@ -11,22 +11,24 @@ We'll be using the dialogue system [Yarn Spinner](https://docs.yarnspinner.dev/)
 
 
 ## Rules for the jam:
-1. **Try not write any new C# scripts**  
+1. You may change the graphics of the player, but otherwise not change its functioning or movement.  
+
+2. **Try not write any new C# scripts**  
 You should focus on getting the hang of working a dialogue, and not get hung up on other stuff (there will be lots of time in future classes for other topics).  
 \**If it's dialogue related, I may be willing let this one slide*
 
-2. **Try not spend more than a few minutes on any individual visual asset.**
+3. **Try not spend more than a few minutes on any individual visual asset.**
 I'd recommend using [MeshCreator](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.xw032gjq2grv), ProBuilder, [2D images](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.e2oea5jdixy3), cubes/spheres, or TextMeshPro components (the non-UI version).
 
 
-3. **Focus on dialogue, narrative and text, NOT physics-y or action-y game mechanics**
+4. **Focus on dialogue, narrative and text, NOT physics-y or action-y game mechanics**
 
-4. **Embrace Limitations**  
+5. **Embrace Limitations**  
 
-5. **Where possible, just say "yes" to your group members**  
+6. **Where possible, just say "yes" to your group members**  
 Try to take an additive, rather than subtractive approach. Everyone should have their ideas represented in the project.
 
-6. **Have fun with it!**  
+7. **Have fun with it!**  
 It's OK if the end result isn't complete, or even "good". This game will not be graded. We just ask you make a good faith attempt for the duration of class.
 
 Also, if you get stuck or confused, ask your peers, or the instructors.
