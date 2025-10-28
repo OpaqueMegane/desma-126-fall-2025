@@ -10,7 +10,9 @@ permalink: /lectures/day-10
 
 ## Itinerary for today:
 We'll start with a quick demo of how you can use the animator to create a door, or other interactive level components.  
-*[Here's a more detailed door tutorial](https://docs.google.com/document/d/1CjT365mt6T-U7529wdiMlNhmFPqzUP2VL0Xk4WcSGjs/edit?tab=t.4f33g2eoepq9) with  instructions for locking/unlocking, if relevant to your idea*
+*[Here's a more detailed door tutorial](https://docs.google.com/document/d/1CjT365mt6T-U7529wdiMlNhmFPqzUP2VL0Xk4WcSGjs/edit?tab=t.4f33g2eoepq9) with  instructions for locking/unlocking, if relevant to your idea*  
+  
+*Also, [Here is some info](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.h17qdfoxcnek#bookmark=id.b6a6vd5v355i) about controlling animation parameters from UI buttons, trigger zones, generic action interactibles etc...*
 
 Otherwise, today is primarily an open work day.  We want to be sure that everyone has has *some* of the basic functionality of their project idea implemented *in Unity* for the prototype due Thursday. There are no hard requirements, but here are some recommendations (not all will apply to every project):  
 - Decide on a control/camera scheme, and set up in your project. [see doc from last class](https://docs.google.com/document/d/1lOdCiG_jkeUeenFn6UD3TJ9aDax-mhNL20jTnrlGiNE/edit?tab=t.zaocfwa9bb4e#heading=h.b71mz5sy2adz)
