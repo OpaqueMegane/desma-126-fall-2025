@@ -9,9 +9,9 @@ Please sign up for a homeplay game, if you haven't done so already: [link](https
 
 
 ## Itinerary for today:
-We'll start with a short [animated+lockable door tutorial](https://docs.google.com/document/d/1CjT365mt6T-U7529wdiMlNhmFPqzUP2VL0Xk4WcSGjs/edit?tab=t.4f33g2eoepq9)
+<!--We'll start with a short [animated+lockable door tutorial](https://docs.google.com/document/d/1CjT365mt6T-U7529wdiMlNhmFPqzUP2VL0Xk4WcSGjs/edit?tab=t.4f33g2eoepq9)-->
 
-But, today will primarily be a work day.  We want to be extra sure that everyone has has at *some* basic functionality of their project idea partially implemented in Unity for the prototype due Thursday. There are no specific requirements, but here are some recommendations (not all will apply to every project):  
+Today will be a primarily an open work day.  We want to be extra sure that everyone has has at *some* basic functionality of their project idea partially implemented in Unity for the prototype due Thursday. There are no specific requirements, but here are some recommendations (not all will apply to every project):  
 - Decide on a control/camera scheme, and set up in your project. [see doc from last class](https://docs.google.com/document/d/1lOdCiG_jkeUeenFn6UD3TJ9aDax-mhNL20jTnrlGiNE/edit?tab=t.zaocfwa9bb4e#heading=h.b71mz5sy2adz)
 - Make an rough-draft of level with cubes and/or probuilder
 - Have some yarn NPCs in place with placeholder or in-progress scripts
@@ -21,4 +21,7 @@ But, today will primarily be a work day.  We want to be extra sure that everyone
 
 We will be roving, and trying to assist you with these. If you are stuck, or unsure how to start, let us help!
 
+We may conduct an impromptu tutorial if there is something that comes up that could be relevant for multiple projects.
+
+Here is also [a download](https://drive.google.com/file/d/1iMFugSQTokWchEIn9JXBwqMcva4T_g9c/view?usp=drive_link) for an updated version of the class assets. (Should fix the warning message issue from the pachinko tutorial, and other misc. additions/fixes)
 
