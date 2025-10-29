@@ -15,7 +15,7 @@ We'll start with a quick demo of how you can use the animator to create a door, 
 *Also, [Here is some info](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.h17qdfoxcnek#bookmark=id.b6a6vd5v355i) about controlling animation parameters from UI buttons, trigger zones, generic action interactibles etc...*
 
 Otherwise, today is primarily an open work day.  We want to be sure that everyone has has *some* of the basic functionality of their project idea implemented *in Unity* for the prototype due Thursday. There are no hard requirements, but here are some recommendations (not all will apply to every project):  
-- Decide on a control/camera scheme, and set up in your project. [see doc from last class](https://docs.google.com/document/d/1lOdCiG_jkeUeenFn6UD3TJ9aDax-mhNL20jTnrlGiNE/edit?tab=t.zaocfwa9bb4e#heading=h.b71mz5sy2adz)
+- Decide on a control/camera scheme, and set up in your project. [see doc from last class](https://docs.google.com/document/d/1h08s3eKCBk5jeEbI1imvGaYucLiH8fJfKAMD9ZqM-To/edit?tab=t.4f33g2eoepq9)
 - Make an rough-draft of level with cubes and/or probuilder
 - Have some yarn NPCs in place with placeholder or in-progress scripts
 - Set up some trigger zones, generic action interactibles, or yarn commands creating some basic of partial behavior of your game.
