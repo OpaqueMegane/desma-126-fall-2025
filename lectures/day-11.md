@@ -7,7 +7,7 @@ permalink: /lectures/day-11
   
 
 **Schedule:**  
-- A quick note about importing, and restoring the example scenes.
+- [A quick note about importing, and restoring the example scenes](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.2rm6igi2buux)
 
 - [A short lesson about working with time in Unity](https://docs.google.com/document/d/1QoUTUwdZwhX3TZAKrWFhRk2UOW7pMafFnVjp-jzoiVk/edit?tab=t.jr2lf9k81y9e), including some useful applications
 
