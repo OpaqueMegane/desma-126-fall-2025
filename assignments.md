@@ -19,4 +19,4 @@ header: true
 ## Readings and Homeplays
 
 [Reading 1](/assignments/reading-1) (due: 10/2)  
-[Homeplay 1](/assignments/homeplay-1) (due: 11/4)
+[Homeplay 1](/assignments/homeplay-1) (due: 11/6)

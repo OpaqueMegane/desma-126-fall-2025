@@ -3,7 +3,7 @@ layout: page
 title: "Homeplay (games within games)"
 permalink: /assignments/homeplay-1
 ---
-**DUE: 11/4**
+**DUE: 11/6**
 
 [Homeplay Signup sheet](https://docs.google.com/spreadsheets/d/1Lg4P0oeNW5bEP2PLW6dJnkmAb9MLDq2W3pzPYDDWOls/edit?usp=drive_link)
 

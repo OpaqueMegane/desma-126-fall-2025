@@ -5,8 +5,8 @@
 layout: home
 ---
 ## Announcements
- - **10/7/2025**  
- Roll-a-ball deadline moved to 10/13 (Tuesday)
+ - **11/3/2025**  
+ Homeplay #1 deadline moved to 11/6 (Thursday)
 
   
 ## DMA 126 : Game Engine
