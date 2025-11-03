@@ -13,7 +13,7 @@ permalink: /assignments/homeplay-1
 
 - Take notes during play, and take at least one photo or screenshot of the game as you play it at an interesting moment.
 
-- Submit your responses [here](/404)
+- Submit your responses [here](https://forms.gle/1Q793qtTTuFQJaDj8)
 
 - We'll also have a brief discussion about our experiences and findings in class.
 
