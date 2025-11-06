@@ -5,6 +5,11 @@
 layout: home
 ---
 ## Announcements
+ - **11/6/2025**  
+Instructor will hold open office hours in the Game Lab (Broad 3252) on Monday 11/10, and Wednesday 11/13 from 10am-2pm if anyone needs last minute help.  
+Please reach out in advance if you cannot make those times and would like help.  
+Remote meeting can be accommodated upon request.
+  
  - **11/3/2025**  
  Homeplay #1 deadline moved to 11/6 (Thursday)
 
