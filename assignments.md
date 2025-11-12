@@ -9,10 +9,10 @@ header: true
 <br>
 <br>
 [Project 1](/assignments/project-1) (due: 10/9)  
-[Submission From](https://docs.google.com/forms/d/e/1FAIpQLSe0z7wgeaP1oH6sUy5HscEU6d1wieAVwyYKES2mzCQ173VI2A/viewform?usp=header)
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe0z7wgeaP1oH6sUy5HscEU6d1wieAVwyYKES2mzCQ173VI2A/viewform?usp=header)
 
 [Project 2](/assignments/project-2) (due: 11/13)  
-[Submission From](https://docs.google.com/forms/d/e/1FAIpQLScaTe1kJsNtB-7hs0VrjclcYeMU2rZh0gVVgwJmCc5e0ECCIQ/viewform?usp=header)
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScaTe1kJsNtB-7hs0VrjclcYeMU2rZh0gVVgwJmCc5e0ECCIQ/viewform?usp=header)
   
 <!--[Project 3](/assignments/project-3) (due: 12/4)-->
 <br>

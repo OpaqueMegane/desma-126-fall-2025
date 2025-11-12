@@ -69,7 +69,7 @@ You should have something playable in editor, and that demonstrates a clear conc
 
 ### Final Build + Project
 <span style="font-size: 120%; color: #25C61D;"> (DUE 11/6) </span>  
-*(submission link here soon)*
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScaTe1kJsNtB-7hs0VrjclcYeMU2rZh0gVVgwJmCc5e0ECCIQ/viewform?usp=header)
 
 <img src="/assets/inscryption-1.png" size="30%">
 <center><i>Inscryption</i></center>
