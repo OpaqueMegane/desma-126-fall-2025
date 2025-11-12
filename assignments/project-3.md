@@ -7,10 +7,10 @@ permalink: /assignments/project-3
 We're in the home stretch! For the final project #3, you have 2 options:
 
 ## Option 1: Multiplayer Game
-It is hard to make an NPC/AI/opponent that is as interesting or complex as a flesh and blood human being. Create a game that taps into the possibilities of multiple human players. This need not be competetive, "fair", or even strongly-rule based. Try to make something that plays in the expansive possiblities offered by multiple actors as considered [in the lecture](/placeholder) 
+It is hard to make an NPC/AI/opponent that is as interesting or complex as a flesh-and-blood human being. Create a game that taps into the possibilities of multiple human players. This need not be competetive, "fair", or even strongly-rule based. Try to make something that plays in the expansive possiblities offered by multiple actors as considered [in the lecture](/placeholder) 
 
 ### Requirements
-- Your project must involve multiple "players" in some capacity. You are encourage to consider this expansively.  Your project need not be competitive, or even conventionally game-like. (e.g. Endless Forest, exquisite corpse, Comedy Night)
+- Your project must involve multiple "players" in some capacity. You are encouraged to consider this expansively.  Your project need not be competitive, or even conventionally game-like. (e.g. Endless Forest, exquisite corpse, )
 - Integration of at least one of the new topics/techniques included in the final series of lessons (or another personally selected topic cleared with the instructor.)
 
 ## Option 2: Continue Project 2
@@ -24,8 +24,9 @@ It is hard to make an NPC/AI/opponent that is as interesting or complex as a fle
 	- Visual enhancements (e.g. creating a more visually refined, dense environment, adding animation, etc…)
 
 ## Evaluation (both options)
-As in the previous projects, we don't expect a project to perfectly embody all of the following qualities. Depending on your interests and skillsets, we fully expect that you will engage with some aspects more than others.
+As in the previous projects, we don't expect a project to perfectly embody all of the following qualities. Depending on your interests and skillsets, we fully expect that you will engage with some aspects more than others. 
 
+<!--
 - Engagement with Unity engine features and class materials    
 *How much have explored, and attempted to make use of the various features and possibilities offered by the Unity engine?*
 - Aesthetics (Graphics, animation, sound)  
@@ -40,3 +41,4 @@ As in the previous projects, we don't expect a project to perfectly embody all o
 
 - Originality / Engagement with the prompt
 *Have you taken a creative or unusual approach to the project prompt? Have you found some way to express your own distinctive sensibillity through the assignment parameters?*
+-->
