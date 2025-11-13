@@ -28,7 +28,7 @@ It is hard to make an NPC/AI/opponent that is as interesting or complex as a fle
 
 ## Due Dates
 
-**11/20** :  
+**11/18** :  
 - *(Multiplayer option)* 2 project ideas with written explanations and handdrawn sketches showing what you're imagining to be discussed with instructors. (like previous assignments)
 
 - *(Project 2 option)* A list of changes you are considering making to your project 2 for the final deadline (be ready to discuss with instructors)  

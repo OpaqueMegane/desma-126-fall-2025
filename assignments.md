@@ -15,7 +15,7 @@ header: true
 [Submission From](https://docs.google.com/forms/d/e/1FAIpQLScaTe1kJsNtB-7hs0VrjclcYeMU2rZh0gVVgwJmCc5e0ECCIQ/viewform?usp=header)
   
 [Project 3](/assignments/project-3)  
-(ideas/update list due: 11/20)  
+(ideas/update list due: 11/18)  
 (final submission due: 12/4)
 
 
