@@ -106,7 +106,7 @@ Expect to work/attend 6 hours a week in class and 9 hours a week outside of clas
 
 Approach each project with your own level of skill and comfort in mind. You should work to expand your technical skills, but also **lean into your strengths**. If you’re good at drawing, use a bunch of 2D drawings - even if the world is 3D! If you’re into photography, use photocollage to build your game world!
 
-Creative projects and proposals are graded based on these parameters:
+<a name="evaluation"></a>Creative projects and proposals are graded based on these parameters:
 
 - **Submitting on time**.  
 
