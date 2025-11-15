@@ -14,7 +14,11 @@ header: true
 [Project 2](/assignments/project-2) (due: 11/13)  
 [Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScaTe1kJsNtB-7hs0VrjclcYeMU2rZh0gVVgwJmCc5e0ECCIQ/viewform?usp=header)
   
-<!--[Project 3](/assignments/project-3) (due: 12/4)-->
+[Project 3](/assignments/project-3)  
+(ideas/update list due: 11/18)  
+(final submission due: 12/4)
+
+
 <br>
 
 ## Readings and Homeplays
