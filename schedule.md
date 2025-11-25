@@ -16,7 +16,7 @@ header: true
 | 7   | 11/4<br>[Cutscenes + Animation Events](/lectures/day-12)<br>Open work time| 11/6<br> **DUE: Homeplay 1**<br>[Work on project 2 + Yarn Customization](/lectures/day-13)          |
 | 8   | <span style="color:orange">11/11 No class<br>(Veteran's Day Holiday) </span> | 11/13<br>**DUE: Project 2**<br>Project 2 playtest <br> Intro Project 3 |
 | 9   | 11/18<br> [Networked Multiplayer & Project 3 plan check-ins](/lectures/day-15) <br> <br> **DUE: Project 3 Sketch / Project 2 Update Plan** | 11/20<br> [Work day (no set demo)](/lectures/day-16) |
-| 10  | 11/25<br> Work on Project 3 | <span style="color:orange">11/27 No class<br>(Thanksgiving Holiday) </span> |
+| 10  | 11/25<br> [Particle Systems + Work on Project 3](/lectures/day-17) | <span style="color:orange">11/27 No class<br>(Thanksgiving Holiday) </span> |
 | 11  | 12/02<br> Work on Project 3| 12/4<br> **DUE: Project 3**<br>Share, Play, Crit.|
 
 <!--
