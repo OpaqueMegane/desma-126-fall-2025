@@ -9,7 +9,12 @@ permalink: /lectures/day-19
 **Today's Schedule:**  
 - Last minute fixes, get ready to present (~30 minutes)
 - Final Playtest
-  
+
+**If you're done...**  
+Please upload a screen recording of a full playthrough of your game to [this drive folder](https://drive.google.com/drive/folders/1yweTj25KtUkeLC7wvu5hXgBtnAxL10a1) for a small amount of extra credit.  
+We recommend ([OBS](https://obsproject.com/), and it is installed on the lab computers.  If you have a different preferred screen recording method, feel free to use that instead.   
+_(If you're game has multiple endings/branches, you do not need to show all of them, just record a single playthrough.)_
+
 **Reminder:**    
 Please do the [course evaluations](https://go.blueja.io/3l4QbF8nqUyzv85p3_UOiA), if you haven't already.  
 
