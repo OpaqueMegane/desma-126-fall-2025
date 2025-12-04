@@ -5,7 +5,8 @@ permalink: /assignments/project-3
 ---
 **Submission Forms:**  
 [Multiplayer idea sketches / Project 2 Update list Submission](https://docs.google.com/forms/d/e/1FAIpQLSfTXqJCf235FMN2LMje52TJnlsjN_ufiwU6SXU2Fa4CExz1TQ/viewform?usp=publish-editor)  
-[Final Submission](/placeholder)
+  
+[Final Submission](https://docs.google.com/forms/d/e/1FAIpQLSdexKFdZhBS86iFKqsGHTKePk5vTOv8x8twzBFGQ_ocgt2p9A/viewform)
 
 We're in the home stretch! For the final project #3, you have 2 options:
 
