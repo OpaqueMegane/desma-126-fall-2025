@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Day 18 (12/22)"
+title: "Day 18 (12/2)"
 permalink: /lectures/day-18
 ---
 **Final Office Hours:**  
